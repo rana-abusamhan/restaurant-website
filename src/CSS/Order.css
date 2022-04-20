@@ -1,0 +1,34 @@
+
+
+.ordersTable{
+    text-align: center;
+    /* background-color: #99d98c; */
+    width:80%;
+    margin: auto;
+    margin-top: 50px;
+}
+
+Table td  {
+    width:40px;
+}
+
+.firstRow{
+    background-color: #b7e4c7;
+    color:black;
+}
+
+Table tr:hover{
+    background-color: #b7efc5;
+}
+.ordersImages{
+    width:70%;
+    height:100px;
+}
+
+.deleteImage{
+width:40px;
+cursor: grab;
+}
+
+
+
